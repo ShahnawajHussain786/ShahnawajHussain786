@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hshahnwaj786@gmail.com**
 
-- 📄 Know about my experiences: <a href="(https://drive.google.com/file/d/1P1njxMhBrrYNWycIQOjKWViijwKWhh1B/view?usp=sharing)" >Shahnawaj_Resume_Link</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1P1njxMhBrrYNWycIQOjKWViijwKWhh1B/view?usp=sharing">Shahnawaj_Resume_Link</a>
 
 - ⚡ Fun fact **I have completed my B.Tech in Civil Engineering from NIT Patna**
 
