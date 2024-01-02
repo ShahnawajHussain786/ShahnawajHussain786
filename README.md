@@ -1,7 +1,7 @@
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Shahnawaj Hussain
   =========================================================================================================================================
 
-<h3 align="left">A passionate Entry Level Data Analyst</h3>
+<h3 align="left">A passionate Entry Level Data/Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawajhussain786&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawajhussain786" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking for **Entry Level Data Analyst role**
+- 👯 I’m looking for **Entry Level Data/Business Analyst role**
 
 - 📫 How to reach me **hshahnwaj786@gmail.com**
 
