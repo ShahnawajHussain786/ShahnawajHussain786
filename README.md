@@ -19,10 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahnawajh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawajh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21905588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21905588" height="30" width="40" /></a>
-<a href="https://fb.com/shahnawajhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnawajhussain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahnawajh_ug191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahnawajh_ug191" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahnawajh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawajh" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/21905588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21905588" height="30" width="40" /></a> <a href="https://www.hackerrank.com/shahnawajh_ug191" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="shahnawajh_ug191" height="30" width="40" /></a> <a href="https://twitter.com/hshahnwaj786" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg?w=740" alt="hshahnwaj786" height="30" width="40" /></a>
+<a href="https://fb.com/shahnawajhussain" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="shahnawajhussain" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
